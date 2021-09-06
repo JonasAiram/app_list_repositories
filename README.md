@@ -3,7 +3,7 @@
 ## Requisitos
 
    Programa para dispositivos Android, utilizando conceitos de orientação a objetos (Herança, polimorfismo, encapsulamento e etc).
-   Este aplicativo possui como propósito consultar e listar os repositorios do github atraves da api.
+   Este aplicativo possui como propósito consultar e listar os repositórios do github através da api.
 
 ## Objetivo 
    
